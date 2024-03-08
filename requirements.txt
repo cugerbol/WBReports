@@ -1,0 +1,12 @@
+browsercookie==0.7.7
+pandas==2.2.1
+numpy 
+requests
+pybase64
+zipfile36
+Python-IO
+PyYAML
+gspread
+datetime
+openpyxl
+jupyter
