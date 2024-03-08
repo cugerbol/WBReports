@@ -1,4 +1,4 @@
-from lib import *
+from src.lib import *
 
 class Seller:
     

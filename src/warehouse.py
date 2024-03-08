@@ -1,6 +1,6 @@
-from lib import *
-from report import Report
-from seller import Seller
+from src.lib import *
+from src.report import Report
+from src.seller import Seller
 
 class ReportWarehouse:
     

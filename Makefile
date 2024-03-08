@@ -15,5 +15,6 @@ start:
 clean:
 	rm -f cookie.p
 	rm -rf __pycache__
+	rm -rf src/__pycache__
 	rm -rf venv
 	rm -rf data/*

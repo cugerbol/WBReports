@@ -1,4 +1,4 @@
-from lib import *
+from src.lib import *
 
 os.environ['GSPREAD_SILENCE_WARNINGS'] = '1'
 SA_KEY = "sa_key.json"
