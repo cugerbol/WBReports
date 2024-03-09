@@ -12,11 +12,14 @@
 2. Установить python
 `brew install python3`
 
-3. Скачать архив
+3. Установить make
+`brew install make`
+
+4. Скачать архив
 `curl -L -o WBReports.zip https://github.com/cugerbol/WBReports/archive/refs/heads/main.zip
 `
-4. Распаковать архив
+5. Распаковать архив
 `unzip WBReports.zip`
 
-5. Перейти в директорию WBReports-main и запустить Makefile
+6. Перейти в директорию WBReports-main и запустить Makefile
 `make`
