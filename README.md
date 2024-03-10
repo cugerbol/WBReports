@@ -7,7 +7,7 @@
 ### MacOs
 
 1. Установить менеджер пакетов Homebrew 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)`
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 2. Установить python
 `brew install python3`
